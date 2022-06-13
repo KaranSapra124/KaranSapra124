@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @grodanza146
-- 👀 I’m interested in ...development
-- 🌱 I’m currently learning ...java
+- 👋 Hi, I’m @Karan sapra
+- 👀 I’m interested in ...webdevelopment
+- 🌱 I’m currently learning ...javascript
 - 💞️ I’m looking to collaborate on ...projects
 - 📫 How to reach me ...sapra7112@gmail.com
 
