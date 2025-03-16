@@ -1,4 +1,4 @@
-![logo](https://github.com/KaranSapra124/KaranSapra124/blob/main/Github%20Banner.png)
+![logo](https://imarticus.org/blog/wp-content/uploads/2020/09/vsdq.gif)
 <h1 align="center">Hi 👋, I'm Karan Sapra</h1>
 <h3 align="center">A passionate fullstack developer from India having experience of around 2 years in this domain.</h3>
 
