@@ -25,6 +25,13 @@
 
 ---
 
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=karansapra124&theme=radical&margin-w=10&no-frame=true" alt="GitHub Trophies" />
+</p>
+
+---
+
 ## 🛠️ Tech Stack  
 
 <p align="left">
@@ -34,6 +41,7 @@
 ---
 
 ## 📊 GitHub Stats  
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karansapra124&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
