@@ -1,33 +1,42 @@
-![logo](https://imarticus.org/blog/wp-content/uploads/2020/09/vsdq.gif)
-<h1 align="center">Hi 👋, I'm Karan Sapra</h1>
-<h3 align="center">A passionate fullstack developer from India having experience of around 2 years in this domain.</h3>
+### Hi 👋, I'm **Karan Sapra**
+#### 🚀 Fullstack Developer | TypeScript Enthusiast | Building Scalable Web Apps
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karansapra124&label=Profile%20views&color=0e75b6&style=flat" alt="karansapra124" /> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=karansapra124&label=Profile%20views&color=0e75b6&style=flat)
 
-<p align="left" margin="10"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karansapra124" alt="karansapra124" /></a> </p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=karansapra124&theme=onedark)
 
-- 🔭 I’m currently working on [Summit.AI](https://summit-ai.onrender.com)
+---
 
-- 🌱 I’m currently learning **Typescript & NextJs**
+### 🚀 About Me
+- 🔭 Currently building [**Summit.AI**](https://summit-ai.onrender.com)
+- 🌱 Learning **TypeScript & Next.js**
+- 💻 All my projects: [**Portfolio**](https://karan-sapra-portfolio.netlify.app)
+- 💬 Ask me about **JavaScript, React, Node.js, Express, MongoDB, MySQL**
+- 📩 Contact: **sapra7112@gmail.com**
+- 📄 My Resume: [**View Here**](https://drive.google.com/file/d/1015wKbLyq8U-RxEL2U19VsevPvrRYkwO/view?usp=drivesdk)
 
-- 👨‍💻 All of my projects are available at [karan-sapra-portfolio.netlify.app](karan-sapra-portfolio.netlify.app)
+---
 
-- 💬 Ask me about **Javascript,ReactJs,NodeJs,ExpressJs,MongoDB,MYSQL**
+### 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-s-62b215217/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karansapra124)
 
-- 📫 How to reach me **sapra7112@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1015wKbLyq8U-RxEL2U19VsevPvrRYkwO/view?usp=drivesdk](https://drive.google.com/file/d/1015wKbLyq8U-RxEL2U19VsevPvrRYkwO/view?usp=drivesdk)
+### 🛠️ Tech Stack
+**Frontend:** React, Next.js, TypeScript, TailwindCSS, Bootstrap, HTML, CSS, JavaScript
 
-<h3 align="left">Connect with me:</h3>
+**Backend:** Node.js, Express.js, MongoDB, MySQL, Firebase, Appwrite
+
+**Tools & DevOps:** Git, Postman, Jest, Figma
+
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/karan-s-62b215217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karan-s-62b215217/" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,bootstrap,html,css,nodejs,express,mongodb,mysql,git,postman,firebase" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karansapra124&show_icons=true&locale=en&layout=compact" alt="karansapra124" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karansapra124&show_icons=true&locale=en" alt="karansapra124" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karansapra124&" alt="karansapra124" /></p>
+### 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karansapra124&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karansapra124&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karansapra124&theme=radical)
