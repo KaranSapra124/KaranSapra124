@@ -55,7 +55,7 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karansapra124&theme=tokyonight" alt="GitHub Summary" />
 </p>
-## 🔥 My Contributions  
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=karansapra124&theme=dracula" alt="Contribution Graph" />
 </p>
