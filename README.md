@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karansapra124&label=Profile%20views&color=0e75b6&style=flat" alt="karansapra124" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karansapra124" alt="karansapra124" /></a> </p>
+<p align="left" style="margin:1rem;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karansapra124" alt="karansapra124" /></a> </p>
 
 - 🔭 I’m currently working on [Summit.AI](https://summit-ai.onrender.com)
 
