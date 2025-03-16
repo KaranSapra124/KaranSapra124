@@ -57,7 +57,7 @@
 </p>
 ## 🔥 My Contributions  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karansapra124&theme=github-dark" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karansapra124&theme=dracula" alt="Contribution Graph" />
 </p>
 
 
