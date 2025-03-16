@@ -27,14 +27,14 @@
 
 ## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karansapra124&theme=radical&margin-w=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=karansapra124&theme=radical&margin-w=15&no-bg=true&animation=wave" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ## 🛠️ Tech Stack  
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,bootstrap,git,github,figma,postman" alt="Tech Stack" />
 </p>
 
@@ -43,22 +43,19 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karansapra124&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karansapra124&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karansapra124&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karansapra124&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karansapra124&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karansapra124&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ## 📊 GitHub Summary  
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karansapra124&theme=tokyonight" alt="GitHub Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karansapra124&theme=radical" alt="GitHub Summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karansapra124&theme=dracula" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karansapra124&theme=radical" alt="Contribution Graph" />
 </p>
-
-
-
