@@ -27,7 +27,7 @@
 
 ## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karansapra124&theme=radical&margin-w=10&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=karansapra124&theme=radical&margin-w=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -42,14 +42,11 @@
 
 ## 📊 GitHub Stats  
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karansapra124&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karansapra124&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karansapra124&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=karansapra124&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karansapra124&" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karansapra124&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
