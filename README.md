@@ -1,4 +1,3 @@
-<img width="100%" src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif"/>
 <h1 align="center">🚀 Hi, I'm Karan Sapra 👋</h1>
 <h3 align="center">A passionate Full Stack Developer from India with 2 years of experience crafting scalable web applications.</h3>
 
