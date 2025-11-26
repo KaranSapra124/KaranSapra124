@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building [Summit.AI](https://summit-ai.onrender.com) – an AI-powered SaaS platform.
+- 🔭 Currently building HireHeaven – an AI-powered Job Portal.
 - 🌱 Exploring **TypeScript & Next.js** to level up my full-stack game.
 - 💡 Passionate about **web performance, scalability, and crafting seamless user experiences**.
 - 💬 Ask me about **JavaScript, React.js, Node.js, Express.js, MongoDB, MySQL**.
