@@ -1,4 +1,4 @@
-<h1 align="center">💡 Karan Sapra | Senior Full Stack Developer (2+ Years)</h1>
+<h1 align="center">💡 Karan Sapra | Full Stack Developer (2+ Years Experience)</h1>
 <h3 align="center">Specializing in building Scalable & High-Performance MERN/PERN Stack Applications.</h3>
 
 <p align="center">
@@ -18,36 +18,38 @@
 
 As a **Full Stack Developer** with **2+ years of professional experience**, I excel in designing, developing, and deploying robust, **scalable web applications**. My focus is on leveraging **JavaScript**, **React.js**, and **Node.js (MERN Stack)** to deliver optimal **web performance** and **seamless user experiences (UX)**. I am actively upskilling in **TypeScript** and **Next.js** to build modern, enterprise-level solutions.
 
-* **Key Skills (Keywords for Recruiters/ATS):** Full Stack Development, React.js, Node.js, Express.js, MongoDB, RESTful APIs, Next.js, TypeScript, SQL/NoSQL Databases, Git, CI/CD, Agile Methodology.
+* **Key Skills (Keywords for Recruiters/ATS):** Full Stack Development, React.js, Node.js, Express.js, MongoDB, RESTful APIs, Next.js, TypeScript, SQL/NoSQL Databases, Git, CI/CD, **Agile Methodology**.
 * **Current Project Highlight:** Currently building **HireHeaven** – an **AI-powered Job Portal** (Showcases advanced tech application).
-* **Development Philosophy:** Passionate about **clean code architecture**, **scalability**, and implementing best practices for **maintainable, testable code**.
+* **Development Philosophy:** Passionate about **clean code architecture**, **scalability**, and implementing best practices for **maintainable, testable code**. I believe **clean code is poetry**.
 
 ---
 
 ## 🛠️ Technical Stack & Tools
 
-This section groups technologies logically for better readability and SEO.
+This section groups technologies logically for better readability and maximum keyword density.
 
 ### **Frontend Development**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,bootstrap,figma" alt="Frontend Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,tailwind,bootstrap,figma" alt="Frontend Tech Stack" />
 </p>
 
 ### **Backend & Database**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,rest" alt="Backend and Database Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,rest,jwt,prisma" alt="Backend and Database Tech Stack" />
 </p>
 
-### **Tools & Other**
+### **Development & Deployment (DevOps/Tools)**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,vscode,npm,jest,testing" alt="DevOps, Testing, and Tools" />
 </p>
 
 ---
 
-## 📈 GitHub Metrics & Contributions
+## 📈 GitHub Metrics, Streak, and Trophies
 
 > *Note to Recruiters: These metrics reflect consistent coding activity and proficiency across my core languages (JavaScript/TypeScript).*
+
+### **Contribution Stats**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=karansapra124&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=2e8b57&icon_color=2e8b57" alt="GitHub Stats" width="48%" />
@@ -62,24 +64,19 @@ This section groups technologies logically for better readability and SEO.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karansapra124&theme=radical" alt="GitHub Summary" />
 </p>
 
+### **GitHub Trophies**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=karansapra124&theme=radical&row=1&column=5&margin-w=15&no-bg=true&animation=wave" alt="GitHub Trophies" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=karansapra124&theme=react-dark&color=2e8b57" alt="Contribution Graph" />
 </p>
 
 ---
 
-## 🏆 Achievements & Fun Fact
-
-* **Trophy Case:** Showcasing various aspects of my engagement on GitHub.
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karansapra124&theme=radical&margin-w=15&no-bg=true&animation=wave" alt="GitHub Trophies" />
-</p>
-* ⚡ **Fun Fact:** I approach coding challenges with a focus on building **Poetry in Logic** – striving for highly efficient and clean code.
-
----
-
 ## 🤝 Let's Connect
 
-I am currently open to exciting **Full Stack Development** roles where I can leverage my expertise in **React, Node, and Next.js**.
+I am currently open to exciting **Full Stack Development** roles where I can leverage my expertise in **React, Node, and Next.js** to build high-impact applications.
 
-**Interested in discussing a role?** Reach out directly via **LinkedIn** or **Email** (Links above).
+**Interested in discussing a role?** Reach out directly via **LinkedIn** or **Email** (Links at the top of the page).
