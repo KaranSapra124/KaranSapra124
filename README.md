@@ -35,7 +35,7 @@ This section groups technologies logically for better readability and maximum ke
 
 ### **Backend & Database**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,rest,jwt,prisma" alt="Backend and Database Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,prisma" alt="Backend and Database Tech Stack" />
 </p>
 
 ### **Development & Deployment (DevOps/Tools)**
