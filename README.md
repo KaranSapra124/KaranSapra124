@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/karan-s-62b215217/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="mailto:sapra7112@gmail.com" target="_blank">
+  <a href="mailto:karansapra7592@gmail.com" target="_blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="30" width="40" />
   </a>
   <a href="https://yourportfolio.com" target="_blank"> <img align="center" src="https://skillicons.dev/icons?i=website" alt="Portfolio" height="30" width="40" />
