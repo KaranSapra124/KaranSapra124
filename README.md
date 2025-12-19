@@ -1,8 +1,8 @@
 <h1 align="center">Karan Sapra</h1>
-<h3 align="center">Full Stack Developer | MERN / PERN | 2+ Years Experience</h3>
+<h3 align="center">Full Stack Developer | MERN Stack | 2+ Years Experience</h3>
 
 <p align="center">
-Building scalable, high-performance web applications with modern JavaScript technologies.
+Scalable Web Applications • Clean Architecture • Performance-Driven Development
 </p>
 
 <p align="center">
@@ -21,51 +21,59 @@ Building scalable, high-performance web applications with modern JavaScript tech
 
 ## Professional Summary
 
-Results-driven **Full Stack Developer with 2+ years of professional experience** in designing, developing, and deploying **scalable, secure, and high-performance web applications**.  
-Specialized in **MERN / PERN stack development**, RESTful APIs, and modern frontend architecture using **React.js and Next.js**.
+Experienced **Full Stack Developer with 2+ years of hands-on industry experience** in designing, developing, and deploying **scalable, secure, and high-performance web applications**.
 
-Strong advocate of **clean code**, **scalable architecture**, and **Agile development practices**.  
-Currently expanding expertise in **TypeScript**, **Next.js**, and **cloud-native deployments**.
+Specialized in **MERN / PERN stack development**, RESTful APIs, and modern frontend systems using **React.js and Next.js**. Strong understanding of **clean code principles**, **system design fundamentals**, and **Agile methodologies**.
 
----
-
-## Core Skills (ATS Optimized)
-
-**Frontend:** JavaScript (ES6+), TypeScript, React.js, Next.js, Redux, HTML5, CSS3, Tailwind CSS, Bootstrap  
-**Backend:** Node.js, Express.js, REST APIs, Authentication & Authorization  
-**Databases:** MongoDB, MySQL, PostgreSQL, Prisma ORM  
-**DevOps & Tools:** Git, GitHub, Docker, AWS, CI/CD, Postman, Jest  
-**Practices:** Agile/Scrum, Clean Architecture, Performance Optimization, API Security
+Currently enhancing skills in **TypeScript**, **Next.js**, and **cloud-native architecture** to build enterprise-grade applications.
 
 ---
 
-## Current Work
+## Core Competencies (ATS Optimized)
 
-- **HireHeaven (In Progress)**  
-  AI-powered Job Portal focused on intelligent job matching, scalability, and real-time performance.
+- Full Stack Development (MERN / PERN)
+- JavaScript (ES6+), TypeScript
+- React.js, Next.js, Redux
+- Node.js, Express.js
+- RESTful APIs & Authentication
+- MongoDB, PostgreSQL, MySQL
+- Prisma ORM
+- Git, GitHub, Docker, AWS
+- CI/CD, Jest, Postman
+- Agile / Scrum Methodology
+- Performance Optimization & Scalability
+
+---
+
+## Current Project
+
+**HireHeaven – AI-Powered Job Portal**  
+- Developing a scalable job platform with intelligent job matching  
+- Focus on performance optimization, modular architecture, and API scalability  
+- Tech Stack: React, Node.js, MongoDB, AI integrations
 
 ---
 
 ## Technical Stack
 
-### Frontend
+### Frontend Technologies
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,tailwind,bootstrap,figma" />
 </p>
 
 ### Backend & Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,prisma" />
 </p>
 
-### DevOps & Tools
+### DevOps & Development Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,jest,vscode,npm" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,jest,npm,vscode" />
 </p>
 
 ---
 
-## GitHub Activity & Metrics
+## GitHub Statistics & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=karansapra124&show_icons=true&count_private=true&hide_border=true" width="48%" />
@@ -73,12 +81,24 @@ Currently expanding expertise in **TypeScript**, **Next.js**, and **cloud-native
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karansapra124&layout=compact&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karansapra124&layout=compact&hide_border=true" width="45%" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karansapra124&theme=default" />
 </p>
+
+---
+
+## GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=karansapra124&row=1&column=6&margin-w=15&no-bg=true" />
+</p>
+
+---
+
+## Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=karansapra124&theme=github-compact" />
@@ -86,8 +106,17 @@ Currently expanding expertise in **TypeScript**, **Next.js**, and **cloud-native
 
 ---
 
+## Professional Interests
+
+- Scalable Backend Systems
+- Performance Optimization
+- Clean Code & System Design
+- AI-powered Web Applications
+
+---
+
 ## Open to Opportunities
 
-I am actively seeking **Full Stack Developer** roles where I can contribute using **React, Node.js, Next.js, and scalable backend systems**.
+Currently open to **Full Stack Developer** opportunities where I can contribute using **React, Node.js, Next.js, and scalable backend systems**.
 
-📩 **Let’s connect:** LinkedIn or Email (above)
+📩 **Let’s connect via LinkedIn or Email**
