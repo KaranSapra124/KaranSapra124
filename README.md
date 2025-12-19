@@ -27,7 +27,7 @@ Expertise in **Modern JavaScript (ES6+)**, **TypeScript**, and **Cloud-Native wo
 
 ---
 
-## 🛠️ Technical Expertise (ATS-Optimized)
+## 🛠️ Technical Expertise 
 
 | Category | Technologies |
 | :--- | :--- |
