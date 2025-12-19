@@ -51,12 +51,10 @@ Expertise in **Modern JavaScript (ES6+)**, **TypeScript**, and **Cloud-Native wo
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=karansapra124&show_icons=true&count_private=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karansapra124&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karansapra124&layout=compact&theme=radical&hide_border=true" width="45%" alt="Top Languages" />
+
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karansapra124&layout=compact&theme=radical&hide_border=true" width="45%" alt="Top Languages" />
-</p>
 
 ### 📊 Contribution Graph
 <p align="center">
