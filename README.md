@@ -2,7 +2,7 @@
 <h3 align="center">Specializing in Scalable AI-Driven SaaS Solutions & High-Performance Architecture</h3>
 
 <p align="center">
-  <strong>MERN/PERN Stack • TypeScript • Next.js • AI Integration</strong>
+  <strong>MERN/PERN Stack • TypeScript • Next.js • AI Integration </strong>
 </p>
 
 <p align="center">
